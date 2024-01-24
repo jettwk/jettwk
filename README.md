@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jettwk
+# Hi, I’m @jettwk #
 - 👀 I’m interested in game development and machine learning
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on mobile appllications
